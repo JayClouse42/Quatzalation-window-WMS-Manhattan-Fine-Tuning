@@ -1,5 +1,6 @@
 # Q-Nine: Two-Phase Pick Module Layout Engine
 
+[Lambda-chan's Quatzalation song] (https://www.youtube.com/watch?v=VNqIv6aTwxM)
 
 Q-Nine is a high-performance Warehouse Management System (WMS) slotting engine designed to maximize picker efficiency and streamline inventory positioning[cite: 1]. By pairing rapid global layout generation with continuous, localized fine-tuning[cite: 1], Q-Nine keeps pick modules optimized without requiring full system re-analyzes or manual floor intervention[cite: 1].
 
